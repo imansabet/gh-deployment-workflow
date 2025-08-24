@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'index.html'  
+      - 'index.html'   # یا هر فایل دیگه‌ای که می‌خوای شرط بذاری
 
 jobs:
   deploy:
